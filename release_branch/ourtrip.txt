@@ -1,0 +1,7 @@
+#location (A):
+
+
+#foods (B):
+
+
+#accomodation (C):
